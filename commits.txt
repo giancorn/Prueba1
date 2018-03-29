@@ -1,0 +1,17 @@
+commit 1a46f3da075b2e89394d189431d8823c81ed6caf
+Author: Gian <gian.corn.ap@gmail.com>
+Date:   Thu Mar 29 17:06:18 2018 -0500
+
+    agregamos color y una division
+
+commit 542a33b5e3cf8973b740b1d73133afe19224b3b2
+Author: Gian <gian.corn.ap@gmail.com>
+Date:   Thu Mar 29 16:54:14 2018 -0500
+
+    nuevo archivo css y cambio de color de fuentes
+
+commit 07d3d6c175709a3a81516dd7b80df7d205d6e925
+Author: Gian <gian.corn.ap@gmail.com>
+Date:   Thu Mar 29 15:55:56 2018 -0500
+
+    Iniciamos
