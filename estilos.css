@@ -13,7 +13,7 @@ header{
 .ancho{
 	width: 80%;
 	height: 60px;
-	background: red;
+	background: none;
 	margin: auto;
 }
 .logo{
