@@ -6,20 +6,21 @@
 
 header{
 	width: 100%;
-	background: Turquoise;
+	background: rgba(64, 224, 208, .8);
 	height: 70px;
+	position: fixed;
 }
 
 .ancho{
 	width: 80%;
 	height: 70px;
-	background: none;
+	/*background: rgba(64, 224, 208, .5);*/
 	margin: auto;
 }
 .logo{
 	width: 30%;
 	height: 70px;
-	background: Turquoise;
+	/*background: rgba(64, 224, 208, .5);*/
 	float: left;
 	padding-top: 5px;
 	box-sizing: border-box;
@@ -34,7 +35,7 @@ header{
 nav{
 	width: 70%;
 	height: 70px;
-	background: Turquoise;
+	/*background: rgba(64, 224, 208, .5);*/
 	float: left;
 	text-align: right;
 	padding-top: 25px;
