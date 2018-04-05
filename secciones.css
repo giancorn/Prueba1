@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed');
+
+h3 {
+	font-family: 'IBM Plex Sans Condensed', sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: #777;
+}
+
+.wap{
+	width: 90%;
+	margin: auto;
+}
+
+.bienvenidos{
+	/*background: red;*/
+	margin-top: 50px;
+	text-align: center;
+}
