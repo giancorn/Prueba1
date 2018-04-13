@@ -25,13 +25,14 @@ header{
 	float: left;
 	padding-top: 5px;
 	box-sizing: border-box;
-	font-family: 'Poppins', sans-serif;
+	
 }
 .logo p a{
 	color: #fff;
 	font-size: 40px;
 	font-weight: bold;
 	text-decoration: none;
+    font-family: 'Poppins', sans-serif;
 }
 nav{
 	width: 70%;

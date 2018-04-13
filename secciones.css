@@ -7,6 +7,26 @@ h3 {
 	color: #777;
 }
 
+h4 {
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+h5{
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    line-height: 1.5;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 10px;
+    letter-spacing: 1px;
+}
+p{
+    color: #888;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-size: 17px;
+}
+
+
 .wap{
 	width: 90%;
 	margin: auto;
@@ -16,4 +36,21 @@ h3 {
 	/*background: red;*/
 	margin-top: 50px;
 	text-align: center;
+}
+
+.contenedor-columnas{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.columnasx3{
+    width: 33.33%;
+    float: left; /* para q lo mande a la izqierda */
+    padding: 20px 20px;
+    box-sizing: border-box;
+}
+
+.columnasx3 img{
+    width: 100%;
 }
